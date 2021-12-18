@@ -1,0 +1,13 @@
+{
+  "name": "tomlrun",
+  "version": "0.1.7",
+  "description": "A dead simple script runner with TOML",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "tomlrun": "index.js"
+  },
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
